@@ -1,0 +1,1 @@
+This repository demonstrates a common Javascript bug related to type coercion. The function `foo` is intended to add two numbers but due to type coercion, it concatenates a string and a number instead.  The solution provides a fix to ensure proper type checking before performing the addition operation.
